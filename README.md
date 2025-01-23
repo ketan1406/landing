@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # Three.js Earth Visualization 🌍
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-green?style=for-the-badge&logo=vercel)](https://ketan1406.github.io/threejs-earth/)
@@ -53,8 +54,3 @@ An interactive 3D Earth visualization with realistic textures, atmospheric glow,
     │   ├── getStarfield.js    # 3D starfield generator
     │   └── index.js           # Main scene setup
     └── vite.config.js         # Build configuration
-=======
-# Earth
-
-[Visit Earth](https://ketan1406.github.io/threejs-earth/)
->>>>>>> 02dd9d8fe68f87e5790a3e66976c807b3ab67bce

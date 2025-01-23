@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Three.js Earth Visualization 🌍
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-green?style=for-the-badge&logo=vercel)](https://ketan1406.github.io/threejs-earth/)
@@ -38,11 +36,11 @@ An interactive 3D Earth visualization with realistic textures, atmospheric glow,
 
 ## 💡 Technologies Used
 
-- Three.js - Core 3D rendering engine.
-- Vite - Build tool & dev server.
-- GLSL - Custom shader programming.
-- OrbitControls - Camera interaction.
-- gh-pages - Automated deployment.
+- [Three.js](https://threejs.org/) - Core 3D rendering engine.
+- [Vite](https://vitejs.dev/) - Build tool & dev server.
+- [GLSL](https://learnopengl.com/Getting-started/Shaders) - Custom shader programming.
+- [OrbitControls](https://threejs.org/docs/#examples/en/controls/OrbitControls) - Camera interaction.
+- [gh-pages](https://www.npmjs.com/package/gh-pages) - Automated deployment.
 
 ## 📂 Project Structure
 
